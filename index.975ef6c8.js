@@ -27091,10 +27091,10 @@ var _stylesCss = require("./styles.css");
  */ const siteProps = {
     name: "Hans Jacob Westbye",
     title: "MD and Phd student",
-    email: "hjwestbye",
+    email: "",
     gitHub: "hjwestbye",
     instagram: "",
-    linkedIn: "",
+    linkedIn: "hjwestbye",
     medium: "",
     twitter: "",
     youTube: ""
