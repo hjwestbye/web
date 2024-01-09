@@ -28663,14 +28663,14 @@ const Home = ({ name , title  })=>{
                     width: "17rem"
                 },
                 children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
                         children: name
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
                         lineNumber: 33,
                         columnNumber: 9
                     }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
                         children: title
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
