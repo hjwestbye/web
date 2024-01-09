@@ -27091,7 +27091,7 @@ var _stylesCss = require("./styles.css");
  */ const siteProps = {
     name: "Hans Jacob Westbye",
     title: "MD and Phd student",
-    email: "hjwestbye@gmail.com",
+    email: "hjwestbye",
     gitHub: "hjwestbye",
     instagram: "",
     linkedIn: "",
