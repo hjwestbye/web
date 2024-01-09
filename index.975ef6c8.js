@@ -27224,8 +27224,8 @@ const About = ()=>{
                 style: {
                     backgroundColor: "white",
                     width: "50%",
-                    padding: "4rem",
-                    margin: "3rem auto",
+                    padding: "2rem",
+                    margin: "2rem auto",
                     textAlign: "center"
                 },
                 children: [
