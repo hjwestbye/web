@@ -138,7 +138,7 @@ html {
   -webkit-column-gap: 3rem;
   columns: 1;
   column-gap: 3rem;
-  margin: 2rem 3rem;
+  margin: 1rem;
   font-size: 1.25rem;
 }
 
