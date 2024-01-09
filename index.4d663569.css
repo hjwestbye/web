@@ -132,4 +132,20 @@ html {
   }
 }
 
+.skills-list {
+  text-align: left;
+  -moz-column-gap: 3rem;
+  -webkit-column-gap: 3rem;
+  columns: 1;
+  column-gap: 3rem;
+  margin: 2rem 3rem;
+  font-size: 1.25rem;
+}
+
+@media (min-width: 600px) {
+  .skills-list {
+    columns: 2;
+  }
+}
+
 /*# sourceMappingURL=index.4d663569.css.map */
